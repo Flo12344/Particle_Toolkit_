@@ -1,13 +1,11 @@
-Welcome to (PTK) Particle Toolkit's documentation! 
-===================================
+Welcome to Particle Toolkit's documentation! 
+==================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Particle Toolkit** (PTK) is a Blender Add-on/ Node Pack that adds multiple nodes to make particle systeme easier to make and manage with Blender's simulation nodes. 
+It adds multiple geometry node groups and shader node groups.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :ref:`installation` the add-on.
 
 .. note::
 
@@ -19,4 +17,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   geometry_node
+   shader_node
